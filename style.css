@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(221, 201, 113);
+}
+
+.cardCont{
+    display: flex;
+}
+
+.carousel{
+    position: relative;
+    left:30%;
+    width: 500px;
+    height: 1200%;
+}
+.boton{
+    margin-left: 30%;
+    margin-top: 3%;
+    display: flex;
+    position: relative;
+    
+
+
+}
+.contenedor{
+    border: rgb(0, 0, 0) 1px solid;
+    width: 1500px;
+    height: 200px;
+}
+.logo{
+    position: absolute;
+    top: 5%;
+    left: 38%;
+}
+
+.mb-3{
+    border: rgb(0, 0, 0) 1px solid;
+    background-color: rgb(140, 156, 187);
+    width: 1500px;
+    height: 200px;
+}
